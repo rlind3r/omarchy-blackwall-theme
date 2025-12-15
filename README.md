@@ -6,4 +6,9 @@ omarchy-blackwall-theme is a theme for Omarchy, an operating system based on Arc
 # Installation
 To install this theme, use the following command:
 
-```omarchy-theme-install https://github.com/rlind3r/omarchy-blackwall-theme.git```
+```omarchy-theme-install https://github.com/rlind3r/omarchy-blackwall-theme```
+
+Alternatively, you can use the Walker menu:
+1. Copy the following link: ```https://github.com/rlind3r/omarchy-blackwall-theme```
+2. Open the Walker menu: ```SUPER + ALT + SPACE``` and navigate to Install > Style > Theme
+3. Paste the link and hit ```Enter/Return```
